@@ -8,4 +8,5 @@
  - `example_board.png`: Example board screenshot during gameplay
 
 Example board
+
 <img src="example_board.png" alt="example board image" width="500"/>
